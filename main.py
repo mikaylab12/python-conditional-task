@@ -1,5 +1,5 @@
 #Midrand Speeedster
-speed = int(input("What is the average speed of the driver in km/h: "))
+speed = int(input("What is the average speed of the driver in km/h: ")) # speed limit is 60 km/h
 speed_limit = int(input("What is the allowed speed on the road: "))
 points = (speed- speed_limit)/5
 
